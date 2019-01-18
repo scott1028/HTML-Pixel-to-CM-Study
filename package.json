@@ -1,0 +1,12 @@
+{
+  "name": "HTML-Pixel-to-CM-Study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/scott1028/HTML-Pixel-to-CM-Study.git",
+  "author": "<mic1028002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "1.4.0",
+    "jspdf-customfonts": "0.0.4-rc.4"
+  }
+}
